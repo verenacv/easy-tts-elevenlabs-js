@@ -25,7 +25,7 @@ Before running this bot, ensure you have the following:
     ELEVEN_LABS= # Your ElevenLabs API key
     ```
 
-Start the bot with ```node index.js```
+Deploy the command with ```node deploy.js``` and start the bot with ```node index.js```
 
 ## 🎞️ Usage
 Once the bot is running, you can use the /tts command followed by the text you want to convert to speech.
